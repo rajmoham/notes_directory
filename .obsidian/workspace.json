@@ -4,53 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ccf5620c26a9496f",
+        "id": "88308803efc71b1a",
         "type": "tabs",
         "children": [
           {
-            "id": "bbfb0dfe051fdfbc",
+            "id": "4f52b29d5aa187bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "5982f7f43c3af78d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Notes/Maths Equations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maths Equations"
-            }
-          },
-          {
-            "id": "cdfb0e40373f54cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian Notes/Code Syntax Highlighting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Code Syntax Highlighting"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,25 +89,6 @@
         "id": "b8f5f7c08072e1db",
         "type": "tabs",
         "children": [
-          {
-            "id": "71d9e98e82b793ce",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Untitled.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
-            }
-          },
           {
             "id": "36ced2398c06f1c6",
             "type": "leaf",
@@ -204,51 +157,49 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": true
     }
   },
-  "active": "cdfb0e40373f54cc",
+  "active": "4f52b29d5aa187bb",
   "lastOpenFiles": [
-    "Obsidian Notes/Maths Equations.md",
-    "Obsidian Notes/Code Syntax Highlighting.md",
+    "Binary Representation/01 - Binary/001 - Floating Point.md",
+    "Coding/C++/03 - Data Types/001 - Basics of Data Types.md",
+    "Coding/C++/02 - Polymorphism/001 - Static Polymorphism.md",
+    "Coding/C++/05 - Structuring Codebase/002 - Forward Declaration.md",
+    "Coding/C++/05 - Structuring Codebase/003 - Headers and CPP files.md",
     "index.md",
+    "Untitled.canvas",
+    "2026-01-04.md",
+    "Untitled.base",
+    "Coding/C++/05 - Structuring Codebase/001 - Introduction.md",
+    "Coding/C++/05 - Structuring Codebase/004 - Namespaces.md",
+    "Coding/C++/05 - Structuring Codebase/005 - Scope.md",
+    "Coding/C++/04 - Pointers and References/005 - Smart Pointers.md",
+    "Coding/C++/04 - Pointers and References/006 - Raw Pointers.md",
+    "Coding/C++/04 - Pointers and References/002 - References.md",
+    "Coding/C++/04 - Pointers and References/003 - Memory Model.md",
+    "Coding/C++/04 - Pointers and References/004 - Object Lifetime in C++ {TODO}.md",
+    "Coding/C++/01 - Introduction/003 - Flow Control.md",
+    "Coding/C++/01 - Introduction/004 - Functions.md",
+    "Coding/C++/01 - Introduction/002 - Operations.md",
+    "Coding/C++/01 - Introduction/001 - What is C++.md",
+    "Coding/C++/04 - Pointers and References/001 - Introduction.md",
+    "Obsidian Notes/Maths Equations.md",
+    "Coding/C++/05 - Structuring Codebase",
+    "System Designs/Consistent Hashing {TODO - variants}.md",
+    "Obsidian Notes/Code Syntax Highlighting.md",
     "Obsidian Notes",
     "Development/Server vs Serverless {TODO}.md",
-    "Coding/C++/01 - Introduction/001 - What is C++.md",
-    "Binary Representation/01 - Binary/001 - Floating Point.md",
     "Linux/99 - overthewire - bandit/Passwords and Notes.md",
     "Life/42 Things Everyone Should Learn How To Do.md",
-    "System Designs/Consistent Hashing {TODO - variants}.md",
-    "Security/Authentication/Passkey.md",
-    "Security/Authentication/TLS Handshakes (1.2).md",
-    "Networking/Protocols/HTTP {TODO}.md",
-    "Networking/Processes/Requesting a URL.md",
-    "Networking/OSWAP API/Untitled {TODO}.md",
-    "Networking/Communications/VPN {TODO}.md",
-    "Networking/Communications/Network Sockets {TODO}.md",
-    "Networking/02 - API Handling/Rate Limiting & Throttling {TODO - Expand}.md",
-    "Networking/01 - Network Hacking Basics/002 - Ports, HTTPs, and Certificates.md",
-    "Networking/01 - Network Hacking Basics/001 - {TODO}.md",
-    "Coding/Python/GIL (Global Interpreter Lock).md",
-    "Coding/C++/02 - Polymorphism/001 - Static Polymorphism.md",
-    "Coding/C++/03 - Data Types/001 - Basics of Data Types.md",
-    "Coding/C++/03 - Data Types/002 - Static Typing.md",
-    "Coding/C++/03 - Data Types/003 - Dynamic Typing.md",
-    "Coding/C++/03 - Data Types/004 - Run-Time Type Identification (RTTI).md",
-    "Coding/C++/04 - Pointers and References/006 - Raw Pointers {TODO}.md",
     "(Programming) Languages/C++/04 - Pointers and References/Untitled",
     "(Programming) Languages/C++/Untitled",
     "Networking/02 - API Handling",
     "Coding/Python",
     "Coding",
     "Networking/OSWAP API",
-    "Networking/01 - Network Hacking Basics",
-    "Linux/99 - overthewire - bandit",
-    "Linux"
+    "Networking/01 - Network Hacking Basics"
   ]
 }

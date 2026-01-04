@@ -1,4 +1,7 @@
 {
   "cssTheme": "Everforest Spruce",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "FantasqueSansM Nerd Font Mono",
+  "textFontFamily": "FantasqueSansM Nerd Font Mono",
+  "monospaceFontFamily": "FantasqueSansM Nerd Font Mono"
 }
