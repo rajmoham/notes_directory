@@ -1,0 +1,24 @@
+name: Upload notes and dispatch request to be uploaded to Ditial Garden
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  dispatch-garden:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Dispatch to Digital Garden
+        uses: peter-evans/repository-dispatch@v4
+        with:
+          token: ${{ secrets.PAT }}
+          repository: rajmoham/digital-garden
+          event-type: trigger-from-notes
