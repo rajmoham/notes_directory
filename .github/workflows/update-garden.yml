@@ -1,4 +1,4 @@
-name: Upload notes and dispatch request to be uploaded to Ditial Garden
+name: Upload notes and dispatch request to be uploaded to Digital Garden
 
 on:
   push:
