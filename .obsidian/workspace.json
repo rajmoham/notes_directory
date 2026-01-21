@@ -13,6 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Networking/02 - API Handling/Rate Limiting & Throttling (Introduction) {TODO - Expand}.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Rate Limiting & Throttling (Introduction) {TODO - Expand}"
+            }
+          },
+          {
+            "id": "e37dd41bdf729b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "index.md",
                 "mode": "source",
                 "source": false,
@@ -21,8 +36,111 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "cd0d4cd522044f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Atomic Bomb.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Atomic Bomb"
+            }
+          },
+          {
+            "id": "a332722ec2e3a37e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/01 - Network Hacking Basics/002 - Ports, HTTPs, and Certificates.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "002 - Ports, HTTPs, and Certificates"
+            }
+          },
+          {
+            "id": "1f9d52c2e8d8b7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inside a Computer/01 CPU.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "01 CPU"
+            }
+          },
+          {
+            "id": "10cda17b65b8b2ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inside a Computer/02 RAM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "02 RAM"
+            }
+          },
+          {
+            "id": "7d0156b579485ba3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inside a Computer/01 CPU.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "01 CPU"
+            }
+          },
+          {
+            "id": "fdc7f4b756b83741",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
+            "id": "63ed563d587b15b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/CPU Architectures/NUMA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "NUMA"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,14 +280,29 @@
       "bases:Create new base": true
     }
   },
-  "active": "4f52b29d5aa187bb",
+  "active": "fdc7f4b756b83741",
   "lastOpenFiles": [
+    "Inside a Computer/02 RAM.md",
+    "Inside a Computer/01 CPU.md",
+    "Inside a Computer/Untitled.md",
+    "Networking/01 - Network Hacking Basics/002 - Ports, HTTPs, and Certificates.md",
+    "Inside a Computer",
+    "Operating System/CPU Architectures/NUMA.md",
+    "Operating System/Caches and Memory/Levels of cache.md",
+    "Operating System/CPU Architectures",
+    "Operating System/Caches and Memory",
+    "Physics/Hydrogen Bomb.md",
+    "Physics/Atomic Bomb.md",
+    "index.md",
+    "Physics",
+    "Development/Monolithic vs Microservices.md",
+    "Development/Server vs Serverless {TODO}.md",
+    "Networking/02 - API Handling/Rate Limiting & Throttling (Introduction) {TODO - Expand}.md",
     "Binary Representation/01 - Binary/001 - Floating Point.md",
     "Coding/C++/03 - Data Types/001 - Basics of Data Types.md",
     "Coding/C++/02 - Polymorphism/001 - Static Polymorphism.md",
     "Coding/C++/05 - Structuring Codebase/002 - Forward Declaration.md",
     "Coding/C++/05 - Structuring Codebase/003 - Headers and CPP files.md",
-    "index.md",
     "Untitled.canvas",
     "2026-01-04.md",
     "Untitled.base",
@@ -181,25 +314,10 @@
     "Coding/C++/04 - Pointers and References/002 - References.md",
     "Coding/C++/04 - Pointers and References/003 - Memory Model.md",
     "Coding/C++/04 - Pointers and References/004 - Object Lifetime in C++ {TODO}.md",
-    "Coding/C++/01 - Introduction/003 - Flow Control.md",
-    "Coding/C++/01 - Introduction/004 - Functions.md",
-    "Coding/C++/01 - Introduction/002 - Operations.md",
-    "Coding/C++/01 - Introduction/001 - What is C++.md",
-    "Coding/C++/04 - Pointers and References/001 - Introduction.md",
-    "Obsidian Notes/Maths Equations.md",
     "Coding/C++/05 - Structuring Codebase",
-    "System Designs/Consistent Hashing {TODO - variants}.md",
-    "Obsidian Notes/Code Syntax Highlighting.md",
     "Obsidian Notes",
-    "Development/Server vs Serverless {TODO}.md",
-    "Linux/99 - overthewire - bandit/Passwords and Notes.md",
-    "Life/42 Things Everyone Should Learn How To Do.md",
     "(Programming) Languages/C++/04 - Pointers and References/Untitled",
     "(Programming) Languages/C++/Untitled",
-    "Networking/02 - API Handling",
-    "Coding/Python",
-    "Coding",
-    "Networking/OSWAP API",
-    "Networking/01 - Network Hacking Basics"
+    "Networking/02 - API Handling"
   ]
 }
