@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binary Representation/01 - Binary/001 - Floating Point.md",
+                "file": "Networking/01 - Network Hacking Basics/001 - Networking 101 for Ethical Hacking {TODO}.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "001 - Floating Point"
+              "title": "001 - Networking 101 for Ethical Hacking {TODO}"
             }
           }
         ]
@@ -164,6 +164,9 @@
   },
   "active": "d037cfac2191e42c",
   "lastOpenFiles": [
+    "Networking/01 - Network Hacking Basics/002 - Ports, HTTPs, and Certificates.md",
+    "Networking/01 - Network Hacking Basics/001 - Networking 101 for Ethical Hacking {TODO}.md",
+    "Binary Representation/01 - Binary/001 - Floating Point.md",
     "Coding/C++/03 - Data Types/004 - Run-Time Type Identification (RTTI).md",
     "Coding/C++/04 - Pointers and References/006 - Raw Pointers.md",
     "Coding/C++/04 - Pointers and References/005 - Smart Pointers.md",
@@ -187,9 +190,6 @@
     "Networking/Communications/VPN {TODO}.md",
     "Networking/Communications/Network Sockets {TODO}.md",
     "Networking/02 - API Handling/Rate Limiting & Throttling (Introduction) {TODO - Expand}.md",
-    "Networking/01 - Network Hacking Basics/002 - Ports, HTTPs, and Certificates.md",
-    "Networking/01 - Network Hacking Basics/001 - {TODO}.md",
-    "Obsidian Notes/Maths Equations.md",
     "Security/Vulnerabilities",
     "Inside a Computer",
     "Operating System/CPU Architectures",
