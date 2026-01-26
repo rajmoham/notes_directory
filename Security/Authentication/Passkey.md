@@ -1,8 +1,3 @@
----
-tags:
-  - "#web-authen"
-  - "#cryptography"
----
 An alternative to passwords using public key cryptography.
 # Summarised
 A token is generated and given to the user. The user signs the token using their private key. Then the website is able to verify the token using the public key that it is given.

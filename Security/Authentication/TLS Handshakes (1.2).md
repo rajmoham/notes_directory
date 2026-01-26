@@ -1,9 +1,3 @@
----
-tags:
-  - TCP
-  - HTTP
-  - HTTPS
----
 TLS = Transport Layer Security
 Replaces SSL (Secure Socket  Layer)
 # How does it work?
