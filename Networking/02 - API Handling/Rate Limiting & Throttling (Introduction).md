@@ -17,4 +17,4 @@ Adjust delay times by real time information e.g. CPU usage, memory, Queue Length
 ### Adaptive Throttling
 Using machine learning and heuristics to prepare for high usage and initialising throttling before high activity.
 
-Rate Limiting Algorithms: https://www.youtube.com/watch?v=mQCJJqUfn9Y
+For rate limiting algorithms, see [[Rate Limiting Algorithms]]] 

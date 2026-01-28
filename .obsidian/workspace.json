@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/01 - Network Hacking Basics/001 - Networking 101 for Ethical Hacking {TODO}.md",
+                "file": "Networking/02 - API Handling/Rate Limiting & Throttling (Introduction) {TODO - Expand}.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "001 - Networking 101 for Ethical Hacking {TODO}"
+              "title": "Rate Limiting & Throttling (Introduction) {TODO - Expand}"
+            }
+          },
+          {
+            "id": "b204eda43eadb9a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/02 - API Handling/Rate Limiting & Throttling (Introduction).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Rate Limiting & Throttling (Introduction)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,10 +178,15 @@
       "bases:Create new base": true
     }
   },
-  "active": "d037cfac2191e42c",
+  "active": "a9e84a6131eaded4",
   "lastOpenFiles": [
-    "Networking/01 - Network Hacking Basics/002 - Ports, HTTPs, and Certificates.md",
+    "Data Structures and Algorithms/Rate Limiting/Rate Limiting Algorithms.md",
+    "Networking/02 - API Handling/Rate Limiting & Throttling (Introduction).md",
+    "Data Structures and Algorithms/Rate Limiting",
+    "Data Structures and Algorithms/System Designs/Untitled",
+    "Data Structures and Algorithms/System Designs/Consistent Hashing {TODO - variants}.md",
     "Networking/01 - Network Hacking Basics/001 - Networking 101 for Ethical Hacking {TODO}.md",
+    "Networking/01 - Network Hacking Basics/002 - Ports, HTTPs, and Certificates.md",
     "Binary Representation/01 - Binary/001 - Floating Point.md",
     "Coding/C++/03 - Data Types/004 - Run-Time Type Identification (RTTI).md",
     "Coding/C++/04 - Pointers and References/006 - Raw Pointers.md",
@@ -180,7 +201,6 @@
     "Coding/C++/05 - Structuring Codebase/004 - Namespaces.md",
     "Coding/C++/05 - Structuring Codebase/005 - Scope.md",
     "Coding/Python/GIL (Global Interpreter Lock).md",
-    "Data Structures and Algorithms/System Designs/Consistent Hashing {TODO - variants}.md",
     "Development/Server vs Serverless {TODO}.md",
     "Development/Monolithic vs Microservices {TODO}.md",
     "Inside a Computer/01 CPU {TODO}.md",
@@ -188,8 +208,6 @@
     "Networking/Protocols/HTTP {TODO}.md",
     "Networking/OSWAP API/Untitled {TODO}.md",
     "Networking/Communications/VPN {TODO}.md",
-    "Networking/Communications/Network Sockets {TODO}.md",
-    "Networking/02 - API Handling/Rate Limiting & Throttling (Introduction) {TODO - Expand}.md",
     "Security/Vulnerabilities",
     "Inside a Computer",
     "Operating System/CPU Architectures",
@@ -198,8 +216,6 @@
     "Untitled.canvas",
     "Untitled.base",
     "Coding/C++/05 - Structuring Codebase",
-    "Obsidian Notes",
-    "(Programming) Languages/C++/04 - Pointers and References/Untitled",
-    "(Programming) Languages/C++/Untitled"
+    "Obsidian Notes"
   ]
 }
